@@ -1,0 +1,63 @@
+{
+  "counters": [
+    {
+      "id": "1",
+      "online": false,
+      "ticket": null
+    },
+    {
+      "id": "2",
+      "online": true,
+      "ticket": {
+        "id": "aef4",
+        "number": 1034,
+        "assigned": true
+      }
+    },
+    {
+      "id": "3",
+      "online": true,
+      "ticket": {
+        "id": "fc8d",
+        "number": 1035,
+        "assigned": true
+      }
+    },
+    {
+      "id": "4",
+      "online": true,
+      "ticket": {
+        "id": "b635",
+        "number": 1038,
+        "assigned": true
+      }
+    }
+  ],
+  "tickets": [
+    {
+      "id": "aef4",
+      "number": 1034,
+      "assigned": true
+    },
+    {
+      "id": "fc8d",
+      "number": 1035,
+      "assigned": true
+    },
+    {
+      "id": "0a71",
+      "number": 1037,
+      "assigned": true
+    },
+    {
+      "id": "b635",
+      "number": 1038,
+      "assigned": true
+    },
+    {
+      "id": "839b",
+      "number": 1039,
+      "assigned": false
+    }
+  ]
+}

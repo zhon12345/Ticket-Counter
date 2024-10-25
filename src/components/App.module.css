@@ -1,0 +1,39 @@
+.numbers {
+	display: flex;
+	justify-content: center;
+	margin: 3rem 0;
+}
+
+.card {
+	width: 75%;
+}
+
+.card-body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem;
+}
+
+.system {
+	display: flex;
+	flex-direction: row;
+	gap: 1.5rem;
+}
+
+.current,
+.past {
+	font-size: 2rem;
+}
+
+.past > p {
+	color: #4d4d4d;
+}
+
+.user {
+	font-size: 2.25rem;
+}
+
+.user .btn {
+	margin: 0.5rem;
+}

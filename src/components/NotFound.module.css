@@ -1,0 +1,15 @@
+.not-found {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	min-height: 100vh;
+}
+
+.message {
+	width: 50%;
+}
+
+.message > p {
+	font-size: 24px;
+}
